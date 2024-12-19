@@ -75,11 +75,13 @@ To provide users with an intuitive, efficient, and feature-rich platform for cre
    - **Use Case**: Hosts APIs and the database.
 
 ---
+#### **Flowchart**
+
+![image](https://github.com/user-attachments/assets/17fd77dd-0b5b-4f24-82a3-991e4b64dc23)
+
+---
 
 ### **Program Overview**
-
-#### **Flowchart**
-![Flowchart](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)
 
 This project is structured to ensure systematic development, focusing on incremental feature implementation for a smooth transition from basic to advanced functionalities.
 
