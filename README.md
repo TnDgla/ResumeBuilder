@@ -97,12 +97,13 @@ This project is structured to ensure systematic development, focusing on increme
   1. Initialize the project using **React.js** with Vite.
      - **Reading:** [React.js Official Docs](https://reactjs.org/docs/getting-started.html)
      - **Video:** [React with Vite Setup](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+     - **Video:** [Nodejs tutorial](https://www.youtube.com/watch?v=BLl32FvcdVM&t=2s)
   2. Integrate **Tailwind CSS** and ShadCN UI components.
      - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
-     - **Video:** [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=hnCmSXCZEpU)
+     - **Video:** [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=_9mTJ84uL1Q&t=5s)
   3. Build the landing page, login, and dashboard layouts.
      - **Reading:** [ShadCN UI Documentation](https://ui.shadcn.com/docs)
-     - **Video:** [Building Responsive UIs with Tailwind](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+     - **Video:** [Building Responsive UIs with Tailwind](https://www.youtube.com/watch?v=H6GBwdGiOLM)
 
 - **Deliverables:**
   - A responsive landing page and basic layouts for login and dashboard.
@@ -114,7 +115,7 @@ This project is structured to ensure systematic development, focusing on increme
 - **Tasks:**
   1. Set up Clerk for social media authentication.
      - **Reading:** [Clerk Documentation](https://clerk.dev/docs)
-     - **Video:** [Clerk Authentication Setup](https://www.youtube.com/watch?v=-4NcENXw-iw)
+     - **Video:** [Clerk Authentication Setup](https://www.youtube.com/watch?v=l2wyuYRN2K4)
   2. Protect routes for authenticated users.
      - **Reading:** [Protected Routes in React](https://reactrouter.com/en/main)
      - **Video:** [React Router Dom Tutorial](https://www.youtube.com/watch?v=Ul3y1LXxzdU)
@@ -135,7 +136,7 @@ This project is structured to ensure systematic development, focusing on increme
      - **Video:** [React Context API Tutorial](https://www.youtube.com/watch?v=35lXWvCuM8o)
   3. Integrate AI-powered summary generation using OpenAI.
      - **Reading:** [OpenAI API Documentation](https://platform.openai.com/docs/)
-     - **Video:** [OpenAI Integration Guide](https://www.youtube.com/watch?v=7pV_TCCK3Hw)
+     - **Video:** [OpenAI Integration Guide](https://www.youtube.com/watch?v=u2rvIO4n92s)
 
 - **Deliverables:**
   - Core functionality for creating and customizing resumes.
