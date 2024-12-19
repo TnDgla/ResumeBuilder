@@ -150,8 +150,8 @@ This project is structured to ensure systematic development, focusing on increme
      - **Reading:** [RESTful API Design](https://restfulapi.net/)
      - **Video:** [Building REST APIs with Node.js](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   2. Design the dashboard interface with filters and sorting.
-     - **Reading:** [React Table Components](https://react-table.tanstack.com/)
-     - **Video:** [Building Dashboards in React](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+     - **Reading:** [React Table Components](https://hygraph.com/blog/react-table)
+     - **Video:** [Building Dashboards in React](https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L)
 
 - **Deliverables:**
   - A functional dashboard for managing multiple resumes.
